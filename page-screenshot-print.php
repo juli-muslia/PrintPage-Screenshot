@@ -32,9 +32,7 @@ function page_screenshot_print_button() {
             
            newWindow.document.write("<html><head><title>Print Page</title></head><body id='print_it'><img src='" + img + "' style='width:100%' /></body></html>");
            newWindow.focus();
-           newWindow.onload = function() {
            newWindow.print();
-          }
         });
           setTimeout(function(){
    window.location.reload();
