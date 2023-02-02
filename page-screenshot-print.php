@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Page Screenshot Print
+Plugin Name: PrintPage-Screenshot
 Description: Adds a print button to a page/post with the shortcode [page-screenshot-print].
 Version: 1.0
 Author: Julian Muslia
