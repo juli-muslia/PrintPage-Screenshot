@@ -4,6 +4,7 @@ Plugin Name: PrintPage-Screenshot
 Description: Adds a print button to a page/post with the shortcode [page-screenshot-print].
 Version: 1.0
 Author: Julian Muslia
+Author URI: https://julianmuslia.com
 */
 
 function page_screenshot_print_button() {
